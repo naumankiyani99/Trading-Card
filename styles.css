@@ -1,0 +1,29 @@
+body {
+	border: 1px solid black;
+	width: 300px;
+	padding: 10px;
+
+
+}
+.dis {
+	border: 1px solid black;
+	margin: 5px;
+	width: 290px;
+	height: 200px
+}
+#italcic { 
+	font-style: italic; }
+span {
+	font-weight: bold;
+	text-align: left;
+ }
+
+ul { 
+	list-style: none;
+	text-align: left;
+ }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
